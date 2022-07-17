@@ -5,7 +5,7 @@
   "license": "MIT",
   "devDependencies": {
     "@discordjs/builders": "^0.6.0",
-    "@discordjs/rest": "^0.1.0-canary.0",
+    "@discordjs/rest": "0.6.0",
     "@pikokr/command.ts": "^3.0.8",
     "@types/node": "^16.10.2",
     "@types/uuid": "^8.3.1",
